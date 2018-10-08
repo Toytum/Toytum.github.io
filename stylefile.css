@@ -37,12 +37,11 @@ p#bio{
 
 p#githublink{
     font-size: 20px;
-    text-align:center;
+    text-align:left;
     text-decoration:underline;
 }
 
 p#overflowlink{
     font-size:20px;
-    text-align:center;
     text-decoration:underline;
 }
