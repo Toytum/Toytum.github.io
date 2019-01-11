@@ -53,8 +53,7 @@ p#overflowlink{
 }
 div#upperHalf{
     background-image:url(myBackground1.jpg);
-    background-size:cover;
-    background-origin:padding-box;
+    background-size: cover;
 }
 p#resumeLink{
     font-size:20px;
