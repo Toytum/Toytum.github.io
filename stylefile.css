@@ -2,9 +2,15 @@ p#nav{
     text-align:center;
     border: 1px dotted blue;
 }
+
 h1{
     text-align:center;
-    color: blue;
+    color:rgb(2, 2, 126);
+}
+
+p#headerDescription{
+    font-weight:bold;
+    color:rgb(2,2,126);
 }
 
 p{
@@ -46,6 +52,15 @@ p#overflowlink{
     text-decoration:underline;
 }
 div#upperHalf{
-    background-image:url(windowsBackground.jpg);
+    background-image:url(myBackground1.jpg);
     background-size:cover;
+    background-origin:padding-box;
+}
+p#resumeLink{
+    font-size:20px;
+    text-decoration:underline;
+}
+p#oldProjects{
+    font-size:20px;
+    text-decoration:underline;
 }
